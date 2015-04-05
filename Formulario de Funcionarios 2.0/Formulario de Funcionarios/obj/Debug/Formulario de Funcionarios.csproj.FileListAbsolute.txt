@@ -1,0 +1,36 @@
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.exe.config
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.exe
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.pdb
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.csprojResolveAssemblyReference.cache
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario_de_Funcionarios.Form1.resources
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario_de_Funcionarios.Properties.Resources.resources
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.csproj.GenerateResource.Cache
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.exe
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.pdb
+E:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.exe.config
+E:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.exe
+E:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.pdb
+E:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.exe
+E:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.pdb
+E:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.csprojResolveAssemblyReference.cache
+E:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario_de_Funcionarios.Form1.resources
+E:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario_de_Funcionarios.Properties.Resources.resources
+E:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.csproj.GenerateResource.Cache
+C:\Users\isaque.araujo\Desktop\Formulario de Funcionarios\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.exe.config
+C:\Users\isaque.araujo\Desktop\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.exe
+C:\Users\isaque.araujo\Desktop\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.pdb
+C:\Users\isaque.araujo\Desktop\Formulario de Funcionarios\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.exe
+C:\Users\isaque.araujo\Desktop\Formulario de Funcionarios\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.pdb
+C:\Users\isaque.araujo\Desktop\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.csprojResolveAssemblyReference.cache
+C:\Users\isaque.araujo\Desktop\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario_de_Funcionarios.Form1.resources
+C:\Users\isaque.araujo\Desktop\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario_de_Funcionarios.Properties.Resources.resources
+C:\Users\isaque.araujo\Desktop\Formulario de Funcionarios\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.csproj.GenerateResource.Cache
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 2.0\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.exe.config
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 2.0\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.exe
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 2.0\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.pdb
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 2.0\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.exe
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 2.0\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.pdb
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 2.0\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.csprojResolveAssemblyReference.cache
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 2.0\Formulario de Funcionarios\obj\Debug\Formulario_de_Funcionarios.Form1.resources
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 2.0\Formulario de Funcionarios\obj\Debug\Formulario_de_Funcionarios.Properties.Resources.resources
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 2.0\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.csproj.GenerateResource.Cache
