@@ -46,3 +46,9 @@ G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 3.0\Formula
 G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 4.0\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.exe.config
 G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 4.0\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.exe
 G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 4.0\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.pdb
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 4.0\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.exe
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 4.0\Formulario de Funcionarios\bin\Debug\Formulario de Funcionarios.pdb
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 4.0\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.csprojResolveAssemblyReference.cache
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 4.0\Formulario de Funcionarios\obj\Debug\Formulario_de_Funcionarios.Form1.resources
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 4.0\Formulario de Funcionarios\obj\Debug\Formulario_de_Funcionarios.Properties.Resources.resources
+G:\2015\Formulario All Versions\Versão 2\Formulario de Funcionarios 4.0\Formulario de Funcionarios\obj\Debug\Formulario de Funcionarios.csproj.GenerateResource.Cache

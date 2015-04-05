@@ -30,6 +30,7 @@ namespace Formulario_de_Funcionarios
         public Form1()
         {
             InitializeComponent();
+            carregarUsers();
         }
 
         public void addFuncionario() {
@@ -79,14 +80,14 @@ namespace Formulario_de_Funcionarios
             fileSR.Close();
         }
         public void carregarUsers() {
-            System.IO.StreamReader fileSR2 = new System.IO.StreamReader("@login.txt");
+            System.IO.StreamReader fileSR2 = new System.IO.StreamReader(@"login.txt");
 
             while ((line = fileSR2.ReadLine()) != null)
             {
-                string[] info = line.Split('&');
-                usuarios.Add(info[0]);
-                senhas.Add(info[1]);
-                funcoes.Add(info[2]);
+                string[] info2 = line.Split('&');
+                usuarios.Add(info2[0]);
+                senhas.Add(info2[1]);
+                funcoes.Add(info2[2]);
                 numUsers++;
             }
             fileSR2.Close();
@@ -166,7 +167,6 @@ namespace Formulario_de_Funcionarios
         private void start(object sender, EventArgs e)
         {
             carregarTxt();
-            carregarUsers();
         }
 
         private void atualizarButton(object sender, EventArgs e)
@@ -213,24 +213,49 @@ namespace Formulario_de_Funcionarios
 
         private void fazerLogin(object sender, EventArgs e)
         {
-            for (int i = 0; i < numUsers; i++) {
-                if (userTxtBox.Text == usuarios[i]) {
-                    userAtual = i;
-                    i = numUsers;
-                    Debug.WriteLine(userAtual);
+            if (userTxtBox != null || senhaTxtBox != null)
+            {
+                for (int i = 0; i < numUsers; i++)
+                {
+                    if (i + 1 == numUsers)
+                    {
+                        if (userTxtBox.Text == usuarios[i])
+                        {
+                            userAtual = i;
+                            i = numUsers;
+                        }
+                        else
+                        {
+                            MessageBox.Show("Usuario não cadastrado.", "My Application", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                        }
+                    }
+                    else
+                    {
+                        if (userTxtBox.Text == usuarios[i])
+                        {
+                            userAtual = i;
+                            i = numUsers;
+                        }
+                    }
+
+                }
+                if (senhaTxtBox.Text == senhas[userAtual])
+                {
+                    //loged = true;
+
+                    mainTab.Visible = true;
+                    tabLogin.Visible = false;
+                }
+                else
+                {
+                    MessageBox.Show("Senha invalida.", "My Application", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                    senhaTxtBox.Text = "";
                 }
             }
-            if (senhaTxtBox.Text == senhas[userAtual])
+            else 
             {
-                tabLogin.Visible = false;
-                mainTab.Visible = true;
-            }
-            else
-            {
-                MessageBox.Show("Usuario ou senha invalido.", "My Application", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-                senhaTxtBox.Text = "";
+                MessageBox.Show("Preencha todos os campos.", "My Application", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
         }
-
     }
 }
